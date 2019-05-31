@@ -1,3 +1,4 @@
-my names amr
-age is 18
 amr master
+age is 18
+blah
+
